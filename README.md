@@ -1,2 +1,2 @@
 
- A collection of various projects I have worked on fadsfasd
+ A collection of various projects I have worked on
