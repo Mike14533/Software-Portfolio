@@ -1,2 +1,1 @@
-
- A collection of various projects I have worked on 
+# Portfolio of Michael Mahony
