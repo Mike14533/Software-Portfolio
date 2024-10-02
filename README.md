@@ -1,10 +1,10 @@
  
- ###EMAIL:
-<img src="https://github.com/user-attachments/assets/f9d59a83-4eb4-45f0-bcc7-5e7c19321aa0" width="100" height="100">
+ ### EMAIL:
+<img src="https://github.com/user-attachments/assets/f9d59a83-4eb4-45f0-bcc7-5e7c19321aa0" width="10" height="10">
  mseanmahony02@gmail.com
  
- ###Linkedin
- <img src="https://github.com/user-attachments/assets/a6af13a3-07b9-458d-afe8-efc145d15984" width="100" height="100">
+ ### Linkedin
+ <img src="https://github.com/user-attachments/assets/a6af13a3-07b9-458d-afe8-efc145d15984" width="10" height="10">
 
  Michael Mahony
 
