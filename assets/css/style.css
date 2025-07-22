@@ -14652,3 +14652,7 @@ body.white-version {
   display: none;
   text-align: center;
 }
+
+.skillsAnimation {
+  animation: pulse 2s infinite;
+}
