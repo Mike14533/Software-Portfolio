@@ -9,3 +9,7 @@ function showPage() {
   document.getElementById("loader").style.display = "none";
   document.getElementById("myDiv").style.display = "block";
 }
+
+function showEmail() {
+  document.getElementById("demo").innerHTML = "mseanmahony02@gmail.com";
+}
