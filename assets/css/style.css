@@ -14758,3 +14758,11 @@ body.white-version {
         opacity: 0;
     }
 }
+
+.techUsed{
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 1rem;
+  height: auto;
+}
