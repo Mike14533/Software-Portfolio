@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 </head>
 
-<body onload="myFunction()" class="template-color-1 spybody" data-spy="scroll" data-target=".navbar-example2" data-offset="70">
+<body onload="myFunction()" class="template-color-1 spybody " data-spy="scroll" data-target=".navbar-example2" data-offset="70">
     <div id="loader"></div>
     <div style="display:none;" id="myDiv" class="animate-bottom">
     <!-- Start Header -->
@@ -106,7 +106,7 @@
 
 
 
-    <main class="main-page-wrapper">
+    <main class="main-page-wrapper fadeIn ">
 
         <!-- Start Slider Area -->
         <div id="home" class="rn-slider-area">
@@ -134,8 +134,9 @@
                                     </h1>
 
                                     <div>
-                                        <p class="description">A Software Design graduate of Technological University of the Shannon: Midlands Midwest. Bachelor(Hons): Software Design with Virtual Reality and Gaming Technologies. A honest, hardworking and diligent individual, possessing a friendly disposition. Works very well within a team but also equally effective when working alone. Through experience developed excellent communication skills and the ability to work under pressure. Approaches every role in a thorough professional manner and take great pride in completing all tasks to the highest possible standard. Has a proven ability to learn new skills quickly and a willingness to further develop skills as well as taking orders and direction from others.</p>
+                                        <p class="description text">A Software Design graduate of Technological University of the Shannon: Midlands Midwest. Bachelor(Hons): Software Design with Virtual Reality and Gaming Technologies. A honest, hardworking and diligent individual, possessing a friendly disposition. Works very well within a team but also equally effective when working alone. Through experience developed excellent communication skills and the ability to work under pressure. Approaches every role in a thorough professional manner and take great pride in completing all tasks to the highest possible standard. Has a proven ability to learn new skills quickly and a willingness to further develop skills as well as taking orders and direction from others.</p>
                                     </div>
+                                    <div class="fadingEffect"></div>
                                 </div>
                                 <div class="row">
                                     <div class="col-lg-6 col-xl-6 col-md-6 col-sm-6 col-12">
@@ -180,7 +181,8 @@
         <!-- End Slider Area -->
 
         <!-- Start Portfolio Area -->
-        <div class="rn-portfolio-area rn-section-gap section-separator" id="skills">
+        
+        <div  onscroll="showContentFadingIn()" class="  fadeanimated rn-portfolio-area rn-section-gap section-separator" id="skills">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -189,7 +191,7 @@
                         </div>
                     </div>
                 </div>
-
+              
                 <!-- Start Single List  -->
                
                 <!-- End Single List  -->
@@ -198,7 +200,7 @@
 
                    
                                     
-            <img className = "skillsAnimation" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="250" height="300"/>
+            <img className = " skillsAnimation" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="250" height="300"/>
             <img className = "skillsAnimation" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="250" height="300"/>
             <img className = "skillsAnimation" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="250" height="300"/>
             <img className = "skillsAnimation" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="250" height="300"/>

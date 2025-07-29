@@ -11,5 +11,14 @@ function showPage() {
 }
 
 function showEmail() {
-  document.getElementById("demo").innerHTML = "mseanmahony02@gmail.com";
+  document.getElementById("demo").innerHTML = "michaelsmahony@gmail.com";
+}
+
+function showContentFadingIn(){
+  const element = document.getElementById('fadeanimated')
+
+element.classList.remove('fadeanimated'); // reset animation
+void element.offsetWidth; // trigger reflow
+element.classList.add('fadeIn'); 
+  document.getElementById("fadeanimated").className = "fadeIn";
 }
